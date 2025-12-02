@@ -1,0 +1,9 @@
+# Carpetas de datos del modelo
+model/test/
+model/train/
+model/valid/
+
+# O usando patrones más específicos:
+model/test/**
+model/train/**
+model/valid/**
